@@ -523,7 +523,7 @@ description = "JSON Schema Draft v4 (http://json-schema.org/) formatting with ma
 name = "marshmallow-jsonschema"
 optional = false
 python-versions = "*"
-version = "0.8.0"
+version = "0.10.0"
 
 [package.dependencies]
 marshmallow = ">=2.9.0"
@@ -1407,7 +1407,7 @@ testing = ["coverage", "nose", "zope.event"]
 docs = ["sphinx", "sphinx-rtd-theme", "sphinx-autodoc-typehints", "sphinx-click", "marshmallow-jsonschema", "sphinx-jsonschema"]
 
 [metadata]
-content-hash = "bc3c058efb05340e311a6230f2ca852e84c6ec2e7e7f2405f9c11508d58c4817"
+content-hash = "299265c6f636bb59eb10a892d7fcf58e918a32cf932c3603025b49453ce1808b"
 python-versions = "^3.7"
 
 [metadata.files]
@@ -1737,7 +1737,7 @@ marshmallow = [
     {file = "marshmallow-3.6.0.tar.gz", hash = "sha256:c2673233aa21dde264b84349dc2fd1dce5f30ed724a0a00e75426734de5b84ab"},
 ]
 marshmallow-jsonschema = [
-    {file = "marshmallow-jsonschema-0.8.0.tar.gz", hash = "sha256:c8fb576a8262f771322d412e39fc59ada10b62f158590127a7ddd82644e4862b"},
+    {file = "marshmallow-jsonschema-0.10.0.tar.gz", hash = "sha256:97b4720b719195007bb73550f4a68a6a4fa30ff160057b33997b8c76996259f0"},
 ]
 mccabe = [
     {file = "mccabe-0.6.1-py2.py3-none-any.whl", hash = "sha256:ab8a6258860da4b6677da4bd2fe5dc2c659cff31b3ee4f7f5d64e79735b80d42"},
